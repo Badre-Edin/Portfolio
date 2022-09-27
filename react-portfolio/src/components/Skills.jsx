@@ -10,7 +10,7 @@ import Flutter from '../assets/flutter.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
-import Vue from '../assets/vue.png';
+import Vue from '../assets/vue.jpg';
 
 const Skills = () => {
   return (
